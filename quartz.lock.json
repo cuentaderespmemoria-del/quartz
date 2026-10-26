@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "hard-line-breaks": {
+      "source": "github:quartz-community/hard-line-breaks",
+      "resolved": "https://github.com/quartz-community/hard-line-breaks.git",
+      "commit": "9beba7bb45e0fca0fbff664145954a3a8b07e76d",
+      "installedAt": "2026-10-26T18:50:07.287Z"
+    }
+  }
+}

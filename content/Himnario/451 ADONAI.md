@@ -1,0 +1,11 @@
+---
+Categoria: Corito
+Tono: "-"
+---
+TONO: 
+
+**//¡OH, ADONAI; OH, ADONA!
+DIOS DEL UNIVERSO.
+SEÑOR DE LA CREACIÓN//.
+PORQUE TÚ AL JUSTO BENDECIRÁS
+COMO UN ESCUDO LO RODEARÁS//**
