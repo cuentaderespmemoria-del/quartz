@@ -1,6 +1,6 @@
 ---
 Categoria: 
-Tono: "-"
+Tono: -
 ---
 TONO: 0 / 0 TIEMPOS
 
