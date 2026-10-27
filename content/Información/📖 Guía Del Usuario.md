@@ -1,5 +1,5 @@
-Estas son algunas de las funciones integradas en la bodega.
-Las no explicadas probablemente solo sirven para el editor.
+Estas son algunas de las funciones integradas en la bodega (solo algunas disponibles en la web).
+Las no explicadas en esta lista probablemente solo sirven para el editor.
 
 ## Dentro de las letras 
 
