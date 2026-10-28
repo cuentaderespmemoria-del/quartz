@@ -1,13 +1,15 @@
-Link Bodega:
+**Link Memoria De La Bodega:**
 https://drive.google.com/drive/folders/10ORM7XbxackULU4HBVB_mT3Ebnm7zIUG
 
-Obsidian:
+Recuerda leer [[📖 Guía Del Usuario]] para más información.
+
+# Instalacion en Teléfono 
+
+Obsidian: 
 https://play.google.com/store/apps/details?id=md.obsidian
 
-Drive sync:
+Drive sync (Sincronizador App Movil):
 https://play.google.com/store/apps/details?id=com.ttxapps.drivesync
-
-Sigue estos pasos en orden para dejar listo el cancionero en tu celular.
 
 ---
 
@@ -73,3 +75,10 @@ Para que las canciones se actualicen solas en el teléfono sin que tengas que ab
      * Elige una hora para la sincronización (las horas de la madrugada, **entre 2:00 y 5:00**, son las óptimas).
      * Presiona **OK**.
    * **El nivel de batería debe ser al menos:** Ajústalo a **15%**.
+
+# Instalacion en Computadora
+
+1. Instalar [Obsidian para escritorio.](https://obsidian.md/download)
+2. Instalar [Google Drive para escritorio](https://ipv4.google.com/intl/es/drive/download/) y vincular el mismo correo con el que se abrio el link de la Memoria de la Bodega.
+3. Inicia Obsidian, haz clic en **"Abrir una carpeta como bodega"**, busca en la sección de carpetas compartidas contigo, selecciona **"Material Iglesia"** y debería iniciarse correctamente e indexar de forma automática.
+4. Si pregunta si confías en el autor de la bodega para aceptar los plugins, haz clic en confiar. Si no aparece el aviso, revisa la configuración de Obsidian, ve a **Complementos comunitarios** y actívalos en caso de que estén desactivados.

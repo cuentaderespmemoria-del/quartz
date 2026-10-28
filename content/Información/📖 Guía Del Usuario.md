@@ -1,5 +1,9 @@
+# ¡Bienvenido al cancionero!
+Este es un pequeño proyecto personal que quise compartir ante la necesidad de tener las letras a mano de las alabanzas que tocamos día a día.
+
 Estas son algunas de las funciones integradas en la bodega (solo algunas disponibles en la web).
-Las no explicadas en esta lista probablemente solo sirven para el editor.
+
+>Las no explicadas en esta lista probablemente solo sirven para el editor*
 
 ## Dentro de las letras 
 
@@ -7,7 +11,7 @@ Las no explicadas en esta lista probablemente solo sirven para el editor.
 
 ▶️: Lo mismo que lo anterior pero en la sección de coros.
 
-🔹: No se encuentra en la versión actual del sistema de proyección que maneja el autor → [Proyektor](https://drive.google.com/drive/folders/1R_mAUbI_SaVXGu5M5IJ-uXkvYeLR9dJ7) Recomendado abrir en archivos de computadora vinculado con Google drive (Tutorial pendiente)
+🔹: No se encuentra en la versión actual del sistema de proyección que maneja el autor → [[📽️ Proyektor]]
 
 🎼: Atajo a la versión con acordes de alguna alabanza o himno.
 
@@ -19,7 +23,7 @@ Cuadrado Izquierdo: Abre y cierra el panel lateral de búsqueda manual (se puede
 
 (* Gesto desliza hacia ↓* ) : Aumento el tamaño de la letra.
 
-A↓: Disminuye la letra.
+A↓: Disminuye el tamaño de la letra.
 
 🔍: Buscador rápido de alabanzas.
 
@@ -35,5 +39,11 @@ A↓: Disminuye la letra.
 
 **+** : Agrega otra pestaña de visualización al botón de su costado derecha (como en Google Chrome)
 
-## Sugerencias 
+## Aspecto de la App
+
+Las configuraciones de aspecto pueden ser borradas si en Drive Sync está desactivada la opción de **Excluir carpetas ocultas**.
+
+Ajustes → Apariencia  → Fragmentos CSS 
+
+Ajustes → Styles Settings 
 
