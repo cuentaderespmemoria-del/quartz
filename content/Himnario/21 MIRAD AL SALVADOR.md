@@ -1,8 +1,8 @@
 ---
 Categoria: Devocional
-Tono: Do Mayor
+Tono: Do/Mi Mayor
 ---
-TONO: DO / 3 TIEMPOS
+TONO: DO/MI / 3 TIEMPOS
 
 **-1-
 MIRAD AL SALVADOR JESÚS,
