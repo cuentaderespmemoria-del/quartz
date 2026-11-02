@@ -1,8 +1,8 @@
 [[HAY UN LIRIO|– 📜 –]]
 ```chords
 TONO: [Em]
-Bajos guitarra *:// E G E D# G D# D G D C# //
-Inicio: [A7 ( B7 ↓↓) A7 ( B7 ↓↓)
+Bajos guitarra *:// E G  E D# G  D# D  G  D  C# //
+Inicio: [A7  ( B7 ↓↓) A7  ( B7 ↓↓)
 
 [Em]HAY UN LIRIO QUE HABITA EN LOS [Am]VALLES,
 EN LOS [D]VALLES DEL HUERTO DE [G]DIOS.
