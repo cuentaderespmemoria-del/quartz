@@ -1,4 +1,43 @@
 
+# SER. ESTUDIO
+
+**Himnos:
+301 UN DÍA CRISTO VOLVERÁ
+315 CRISTO, NUESTRO JEFE
+**
+
+**Alabanzas:
+MIRE A JESÚS
+OH QUE HERMOSO ES PENSAR
+**
+
+
+# SER. GENERAL 31/09
+
+**Himnos: 
+21 MIRAD AL SALVADOR mi
+97 SALVO NAVEGO sol
+170 EL SEÑOR RESUCITÓ sol
+**
+
+**Alabanzas:
+CALMÓ LA TEMPESTAD re
+CUANTAS VECES sol
+HOY DÍA VI lam trasponer el Estribillo especial a de mim a la
+A DIOS SEA LA GLORIA sol / 
+QUE ALEGRÍA ES SER DE CRISTO do
+**
+
+Extras:
+Hoy día vi/
+La Gran Victoria
+
+**REPASAR:
+ESTÁ LLOVIENDO BENDICIÓN
+HAY UN LIRIO
+NO TEMAS
+YO HE CREÍDO Estribillo por rem si la tocamos por lam
+**
 
 
 # SER. GENERAL 24-09
