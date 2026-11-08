@@ -1,13 +1,14 @@
 [▶️](https://youtu.be/Ij1lRxhs094?t=25&si=p4T7ZP4BUSHyd98F)
 
-**X2
+**//
 ///HAY VICTORIA///
 EN LA SANGRE DE JESÚS**
 
 **NO PODRÁ EL ENEMIGO
 DAÑAR A NUESTRAS ALMAS**
 
-**POR QUE ///HAY VICTORIA///
+**//
+POR QUE ///HAY VICTORIA///
 EN LA SANGRE DE JESÚS**
 
 [▶️](https://youtu.be/Hb_BdFtrcpo?t=324&si=fPpxB4SyBL-S-KhZ) 🔹
