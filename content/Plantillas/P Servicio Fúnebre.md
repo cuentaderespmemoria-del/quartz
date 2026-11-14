@@ -1,4 +1,4 @@
-# Servicio Fúnebre 
+# SER. FÚNEBRE 
 
 **Himnos:
 

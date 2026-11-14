@@ -1,4 +1,4 @@
-# Servicio General
+# SER. GENERAL
 
 **Himnos:
 

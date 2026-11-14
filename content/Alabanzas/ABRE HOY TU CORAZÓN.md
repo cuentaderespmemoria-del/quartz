@@ -3,7 +3,7 @@ Categoria: Alab. 4 Tiempos Lento
 Tono: Do Mayor
 ---
 
-TONO: DO MAYOR
+TONO: DO MAYOR [[ABRE HOY TU CORAZÓN 🎼|🎼]]
 
 **-1-
 ABRE HOY TU CORAZÓN,

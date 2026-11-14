@@ -1,4 +1,37 @@
 
+
+# SER. ESTUDIO
+
+**Himnos:
+300 UN SALVADOR HALLÉ
+**
+
+**Alabanzas:
+ME SIENTO FELIZ
+NO SÉ POR QUÉ
+**
+
+
+# SER. GENERAL 07-10
+
+**Himnos:
+186 HAS HALLADO EN CRISTO
+82 DÍA FELIZ ❌
+187 CUANDO ANUNCIE EL ARCÁNGEL
+190 A COMBATIR
+**
+
+**Alabanzas:
+NUNCA IMAGINÉ
+TRIGO SOY /
+CRISTO YA VIENE
+SI VALE LA PENA /
+SIEMPRE CAMINÉ
+SI NO CUESTA NADA**
+
+**Extra:
+MORA EN MI VIDA **
+
 # SER. ESTUDIO
 
 **Himnos:
@@ -12,7 +45,7 @@ OH QUE HERMOSO ES PENSAR
 **
 
 
-# SER. GENERAL 31/09
+# SER. GENERAL 31-09
 
 **Himnos: 
 21 MIRAD AL SALVADOR mi
@@ -28,9 +61,9 @@ A DIOS SEA LA GLORIA sol /
 QUE ALEGRÍA ES SER DE CRISTO do
 **
 
-Extras:
+**Extras:
 Hoy día vi/
-La Gran Victoria
+La Gran Victoria**
 
 **REPASAR:
 ESTÁ LLOVIENDO BENDICIÓN

@@ -1,4 +1,4 @@
-# Estudio
+# SER. ESTUDIO
 
 **Himnos:
 
